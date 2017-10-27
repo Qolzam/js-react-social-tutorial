@@ -6,22 +6,18 @@
 </p>
 <!-- Name -->
 <h1 align="center">
-  <a href="https://github.com/Qolzam/react-social-network">React Social Network</a>
+  <a href="https://github.com/Qolzam/react-social-network">Javascript React Social Tutorial</a>
 </h1>
 
 [![Gitter](https://badges.gitter.im/react-social-network/Lobby.svg)](https://gitter.im/react-social-network/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-The React Social Network is an open source project relying on [React](https://facebook.github.io/react/docs/hello-world.html) a powerful javascript library for building the user interface. In this project, I tried to show some features of react/react components as a social network.
+The React Social Network is an open source project relying on [React](https://facebook.github.io/react/docs/hello-world.html) a powerful javascript library for building the user interface. This project is a javascript version of React Social Network for tutorial purpose. React Social Network itsef migrated to TypeScript language but even that we are supporting .jsx and .js javascript files too. It means you can write javascript component, api, action, services, ... beside TypeScript files.
 
 <p align="center">
   <a href="http://greensocial.herokuapp.com/">
     <img src="https://raw.githubusercontent.com/Qolzam/react-social-network/master/docs/app/multi-device.png">
   </a>
 </p>
-
-Since I started building this project I've planned to have a back end for this project so I haven't focused on performance until I build the back end and move some data procedure from end to back end. Therefore I need to change data structure and actions for [Redux](http://redux.js.org/).
-
->You should consult the [CHANGELOG](https://github.com/Qolzam/react-social-network/blob/master/CHANGELOG.md) and related issues for more information
 
 This project adheres to the Contributor Covenant [code of conduct](https://github.com/Qolzam/react-social-network/blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior to amir.gholzam@live.com.
